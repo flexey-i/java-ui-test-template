@@ -29,9 +29,6 @@ PO / Decorator
 
 **Preconditions:**
 
-- 
-
-
 - Install tools
     - [install JAVA](https://www.oracle.com/java/technologies/javase/javase-jdk8-downloads.html)
     - [install GIT](https://git-scm.com/book/ru/v2/Введение-Установка-Git)
