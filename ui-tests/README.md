@@ -23,6 +23,8 @@ PO / Decorator
 
 
 **Project structure:**
+
+
 ![structure](structure.png "")
 
 **Preconditions:**
@@ -59,6 +61,8 @@ To open Allure with results of tests run:
 $ allure serve {Project location}\target\allure-results
 ```
 **Report example:**
+
+
 ![report](report.png "")
 
 **Troubleshooting:**
